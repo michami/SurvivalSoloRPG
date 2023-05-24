@@ -1,27 +1,27 @@
 ### Additional notes on dice:
 
-I started with the standard list of elements, Earth, Water, Wind, and Fire
+### I started with the standard list of elements, Earth, Water, Wind, and Fire
 
 * Earth is the foundation. Your body / HP. The flat surface representing a flat field.
 * Water is strength of movement. The ability to carve through earth. Your STR. The single line represents a river.
 * Air is fast and flitting, like a bird. Your DEX. The two lines represent the movement of a breeze
 * Fire has the power to modify the other elements. It is the danger of magic and the most active of the elements. Your INT. The three stripes represent the tips of a flame.
 
-For creatures:
+### For creatures:
 
 * Dwarfs (Earth) live under the Earth. They work metal (Earth) using fire and wind to heat it, and water to quench it. So while they live in the Earth, they use the elements to work it.
 * Humans (Water) live on the Earth. They till the Earth to plant food and build their homes. They use their strength to modify their environment the most.
 * Elves (Air) are fast and light. They flit between tree branches, living high above the ground in the tree branches, using bows to attack.
 * Beast-kin (Fire) are temperamental and dangerous. They're constantly changing themselves into different forms to destroy anyone in their way. The three stripes representing the swipe of a claw.
 
-Relations:
+### Relations:
 
 * The blank side is your family / foundation. Your starting point.
 * The single line is your friend. The person who will stand with you.
 * The two lines are the lovers, standing together.
 * The three lines are danger, and can either be a claw swipe, or a group of people going to war.
 
-Roll multiple times to get modifiers. ie:
+### Roll multiple times to get modifiers. ie:
 
 * enemy + family = A family enemy or a feud between families.
 * Lovers + family = someone married.
@@ -29,7 +29,7 @@ Roll multiple times to get modifiers. ie:
 
 You could choose to keep this information secret from your character. If a character is a enemy + friend, you could make him an enemy who pretends to be a friend, but will turn on your character at some point in the future.
 
-You can also roll two dice, as shown below, to get a range of how strong the person's actions are. ie:
+### You can also roll two dice, as shown below, to get a range of how strong the person's actions are. ie:
 
 * From fatherly / motherly, to an actual in-law or a family member you haven't seen in a while
 * From polite to generous with their money
@@ -72,19 +72,19 @@ We follow a trail to a clearing and see [3] three lookouts. The first one is [2x
 
 When the husband sees his wife, he acts [3] aggressive, attacking the team. (roll for battle, knocking him out) We find he has magical symbols on him, some kind of curse, that seem to alter his mind somehow. Since the wife is a bard, she rolls to remove the magic using a song. Afterwards, whether or not she succeeds, we go on an adventure to find the person responsible along with the friend and the husband if she succeeded in removing the curse.
 
-**Roll on observations and conversations:**
+### Roll on observations and conversations:
 
 You roll to find out answers that your character asks as well as their observation of the world around them. If you ask someone, "Did you kill that man over there?" and you roll a 0, they may have still killed the man, but are lying about it. You don't roll to find the truth about the world, only what your character can see of it.
 
-**Modifiers:**
+### Modifiers:
 
-Often, when telling a story, you will want to add modifier to skew the results. For example, if you ask someone to join you and you roll a 6, showing that they are thrilled to join, then you ask if their friends would want to join too, you may want to add a +2 to the roll, since it's almost certain that they would want to, but their enthusiasm to join may vary.
+Often, when telling a story, you will want to add a modifier to skew the results. For example, if you ask someone to join you and you roll a 6, showing that they are thrilled to join, then you ask if their friends would want to join too, you may want to add a +2 to the roll, since it's almost certain that they would want to, but their enthusiasm to join may vary.
 
-**Example Battles:**
+### Example Battles:
 
 * Check out the "Hero Battles" folder to see the results of hundreds of thousands of simulated battles between different level heroes and monsters.
 
-PC (3 HP, 4 STR, 4 DEX, 1 INT) + (+1 DEX bow) vs...
+### PC (3 HP, 4 STR, 4 DEX, 1 INT) + (+1 DEX bow) vs...
 
 1. **Mice x3** (1 HP, 1 STR, 1 DEX, 1 INT)
 
