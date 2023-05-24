@@ -31,7 +31,7 @@ Any race can learn the magic of another race through practice. Since this is not
 
 ### Character
 
-**Attributes:** Each character has four attributes. (See Oracle) Start with 12 points and distribute as desired. Attributes have a starting max level of 4 and have a game max level of 9, though item bonuses can bring it higher.
+**Attributes:** Each cAttackingharacter has four attributes. (See Oracle) Start with 12 points and distribute as desired. Attributes have a starting max level of 4 and have a game max level of 9, though item bonuses can bring it higher.
 
 **Lucky Shots:** You may trade one or more attribute point for 3 lucky shots each. One lucky shot is exchanged for an extra roll at any time. Lucky shots are restored when you get XP. Lucky shots use the same number of dice as the current level if used after you start rolling. If used before you start rolling, each lucky shot will increase the level of the roll by one.
 
@@ -43,15 +43,13 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Challenge Difficulties:** Difficulty is in the Fibonacci sequence: Trivial(1), Easy(2), Medium(3), Hard(5), and Heroic(8). Roll to match or better.
 
-**Magical Challenges:** Magical challenges use the same difficulty as a physical challenge. On a failure, the spell backfires and the caster takes one point damage.
-
 **Fray die:** Before hero attacks an enemy, roll one die. If it's a 3, do 1 damage to the opponent before attacking. These are attacks "in the fray" such as off-hand dagger swipes, critical hits, etc.
 
 **Speed (DEX) based attacks:** Attacker rolls on DEX. Defender rolls on either DEX (dodge) or STR (block). If the attacker rolls higher than the defender, the difference is the damage done.
 
 **Strength (STR) based attacks:** Roll on DEX for both attacker and defender. If the defender rolls higher, this is the amount of damage dodged. Then the attacker and defender roll on STR. If the attacker rolls higher, this is the damage done, minus the damage dodged.
 
-**Magic attacks:** Because of the different ways magic can be used, there are no set rules for magic. Your magic level is your INT, and can be used in place of DEX or STR using the same rules as above. These rules may be modified for the spell used, such as AoE spells.
+**Magic attacks:** Because of the different ways magic can be used, there are no set rules for magic. Your magic level is your INT, and can be used in place of DEX or STR using the same rules as above. These rules may be modified for the spell used, such as AoE spells. Use an INT number of tokens to indicate your magic level. Spend as many tokens as you want to cast a spell.  For each turn after that, restore one token until you reach your original INT number of tokens again.
 
 **Damage overflow:** If you do more damage than a single enemy can take, you can spend the overflow damage on an enemy, of equal or less level, adjacent to the first. This can be repeated for as many enemies are there are, as long as they are adjacent to each other. Any one of the remaining enemies can return an attack before you attack again.
 
@@ -59,13 +57,13 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Saving throws:** If poisoned, burning, etc. roll for medium difficulty (3) on your current HP. If you fail the save, you lose one HP and must roll again on your next turn. Repeat until you succeed or your HP reaches 0. If your HP reaches 0 for any reason, including battle, roll for hard difficulty (5) on INT for divine intervention. If you succeed in a divine intervention, restore 1 HP and remove all status effects. (Negative and positive)
 
-**Attacking Objects:** Objects only have a LVL. Attacker rolls on STR to beat the LVL difficulty. A failed roll causes the weapon to bounce off and injure the attacker.
+**Breaking Objects:** Objects only have a LVL. Attacker rolls on STR to beat the LVL difficulty.
 
 **Traps:** Traps have a LVL which must be beat with INT to disarm. LVL acts like DEX if triggered. When creating a trap, roll on INT to find the trap's LVL. A failed roll to disarm will trigger the trap.
 
 **Constructs and Golems:** Roll on INT for the level. Use the rules for monsters to determine how many attribute points to distribute.
 
-**Meditation:** When not in battle, you can choose to meditate. For each turn you meditate, you increase your INT by one on your next INT roll. There is also a 50% chance to be attacked by a low-level monster each turn.  If your meditation is interrupted, you loose the INT bonus.
+**Meditation:** When not in battle, you can choose to meditate. For each turn you meditate, you increase your INT by one on your next INT roll. There is also a 50% chance to be attacked by a low-level monster each turn.  If your meditation is interrupted, you loose the INT bonus and the monster attacks first.
 
 **Leveling:** At the end of a single adventure, (or whenever you feel is right) each hero gets one XP and all spent lucky shots are restored. You need the number of the next level more XP to advance to that level. (level 4 is 4 XP higher than level 3) Each time you level up, you get 2 points you can choose to spend on any attributes or lucky shot tokens.
 
