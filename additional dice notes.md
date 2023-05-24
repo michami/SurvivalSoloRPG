@@ -62,7 +62,7 @@ You can also roll two dice, as shown below, to get a range of how strong the per
 
 ### Story example: (Summarized) [single die value] [2x double dice value]
 
-I enter a tavern. There are [2] two people here. Person one is [1][2] a human female who is [1] friendly to me. Does she want to go on an adventure with me? [2x3] Maybe, but [2] she's married and needs to talk to her husband. Would he want to go with us? [2x6] Yes! He's a skilled adventurer and has been talking about going on an adventure again. We should go ask him to join. As we walk, I ask her what her fighting style is, and she's a [0] bard. Helping indirectly in battle with supporting songs. (Healing, STR boost, DEX boost)
+I enter a tavern. There are [2] two people here. Person one is [1][2] a human female who is [1] friendly to me. Does she want to go on an adventure with me? [2x3] Maybe, but [2] she's married and needs to talk to her husband. Would he want to go with us? [2x4 +2] Yes! He's a skilled adventurer and has been talking about going on an adventure again. We should go ask him to join. As we walk, I ask her what her fighting style is, and she's a [0] bard. Helping indirectly in battle with supporting songs. (Healing, STR boost, DEX boost)
 
 We approach her house. The environment is [2x1] very poor. The door is off the hinges and there's a mess. We search the house and find [1] a note written by a friend. He was here earlier and headed off to follow the trail. He'll meet the wife at the edge of the woods, North of here. We travel there and meet him.
 
@@ -72,9 +72,19 @@ We follow a trail to a clearing and see [3] three lookouts. The first one is [2x
 
 When the husband sees his wife, he acts [3] aggressive, attacking the team. (roll for battle, knocking him out) We find he has magical symbols on him, some kind of curse, that seem to alter his mind somehow. Since the wife is a bard, she rolls to remove the magic using a song. Afterwards, whether or not she succeeds, we go on an adventure to find the person responsible along with the friend and the husband if she succeeded in removing the curse.
 
+**Roll on observations and conversations:**
+
+You roll to find out answers that your character asks as well as their observation of the world around them. If you ask someone, "Did you kill that man over there?" and you roll a 0, they may have still killed the man, but are lying about it. You don't roll to find the truth about the world, only what your character can see of it.
+
 **Modifiers:**
 
-**Example Battles:** PC (3 HP, 4 STR, 4 DEX, 1 INT) + (+1 DEX bow) vs...
+Often, when telling a story, you will want to add modifier to skew the results. For example, if you ask someone to join you and you roll a 6, showing that they are thrilled to join, then you ask if their friends would want to join too, you may want to add a +2 to the roll, since it's almost certain that they would want to, but their enthusiasm to join may vary.
+
+**Example Battles:**
+
+* Check out the "Hero Battles" folder to see the results of hundreds of thousands of simulated battles between different level heroes and monsters.
+
+PC (3 HP, 4 STR, 4 DEX, 1 INT) + (+1 DEX bow) vs...
 
 1. **Mice x3** (1 HP, 1 STR, 1 DEX, 1 INT)
 
