@@ -1,4 +1,4 @@
-### Hero: HP: 2, STR: 1, DEX: 6 (Level 1)
+### Hero: HP: 4, STR: 6, DEX: 1 (Level 1)
 
 ---
 
@@ -7,178 +7,178 @@
 ---
 
 ### Baddie: HP: 1, STR: 1, DEX: 1 (Level 1)
-Won : 97.68%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 1, DEX: 2 (Level 1)
-Won : 96.56%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 1, DEX: 3 (Level 2)
-Won : 95.39%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 1, DEX: 4 (Level 2)
-Won : 91.91%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 1, STR: 2, DEX: 1 (Level 1)
-Won : 93.93%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 2, DEX: 2 (Level 2)
-Won : 90.83%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 2, DEX: 3 (Level 2)
-Won : 89.70%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 2, DEX: 4 (Level 3)
-Won : 82.44%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 1, STR: 3, DEX: 1 (Level 2)
-Won : 90.81%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 3, DEX: 2 (Level 2)
-Won : 86.45%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 3, DEX: 3 (Level 3)
-Won : 84.19%
+Won : 100.00%
 ### Baddie: HP: 1, STR: 3, DEX: 4 (Level 3)
-Won : 74.71%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 1, STR: 4, DEX: 1 (Level 2)
-Won : 80.47%
+Won : 99.74%
 ### Baddie: HP: 1, STR: 4, DEX: 2 (Level 3)
-Won : 74.03%
+Won : 99.56%
 ### Baddie: HP: 1, STR: 4, DEX: 3 (Level 3)
-Won : 71.12%
+Won : 99.41%
 ### Baddie: HP: 1, STR: 4, DEX: 4 (Level 4)
-Won : 65.43%
+Won : 99.19%
 
 ---
 
 ### Baddie: HP: 2, STR: 1, DEX: 1 (Level 1)
-Won : 95.29%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 1, DEX: 2 (Level 2)
-Won : 92.41%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 1, DEX: 3 (Level 2)
-Won : 90.62%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 1, DEX: 4 (Level 3)
-Won : 83.21%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 2, STR: 2, DEX: 1 (Level 2)
-Won : 87.07%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 2, DEX: 2 (Level 2)
-Won : 80.99%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 2, DEX: 3 (Level 3)
-Won : 75.63%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 2, DEX: 4 (Level 3)
-Won : 63.35%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 2, STR: 3, DEX: 1 (Level 2)
-Won : 79.16%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 3, DEX: 2 (Level 3)
-Won : 67.95%
+Won : 99.98%
 ### Baddie: HP: 2, STR: 3, DEX: 3 (Level 3)
-Won : 63.69%
+Won : 100.00%
 ### Baddie: HP: 2, STR: 3, DEX: 4 (Level 4)
-Won : 49.42%
+Won : 99.99%
 
 ---
 
 ### Baddie: HP: 2, STR: 4, DEX: 1 (Level 3)
-Won : 60.34%
+Won : 99.35%
 ### Baddie: HP: 2, STR: 4, DEX: 2 (Level 3)
-Won : 49.93%
+Won : 98.78%
 ### Baddie: HP: 2, STR: 4, DEX: 3 (Level 4)
-Won : 46.13%
+Won : 98.45%
 ### Baddie: HP: 2, STR: 4, DEX: 4 (Level 4)
-Won : 37.27%
+Won : 97.88%
 
 ---
 
 ### Baddie: HP: 3, STR: 1, DEX: 1 (Level 2)
-Won : 92.58%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 1, DEX: 2 (Level 2)
-Won : 87.84%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 1, DEX: 3 (Level 3)
-Won : 85.58%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 1, DEX: 4 (Level 3)
-Won : 74.51%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 3, STR: 2, DEX: 1 (Level 2)
-Won : 79.69%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 2, DEX: 2 (Level 3)
-Won : 70.21%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 2, DEX: 3 (Level 3)
-Won : 63.42%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 2, DEX: 4 (Level 4)
-Won : 47.50%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 3, STR: 3, DEX: 1 (Level 3)
-Won : 68.25%
+Won : 100.00%
 ### Baddie: HP: 3, STR: 3, DEX: 2 (Level 3)
-Won : 54.08%
+Won : 99.99%
 ### Baddie: HP: 3, STR: 3, DEX: 3 (Level 4)
-Won : 46.83%
+Won : 99.98%
 ### Baddie: HP: 3, STR: 3, DEX: 4 (Level 4)
-Won : 30.82%
+Won : 99.98%
 
 ---
 
 ### Baddie: HP: 3, STR: 4, DEX: 1 (Level 3)
-Won : 45.29%
+Won : 98.96%
 ### Baddie: HP: 3, STR: 4, DEX: 2 (Level 4)
-Won : 34.45%
+Won : 97.60%
 ### Baddie: HP: 3, STR: 4, DEX: 3 (Level 4)
-Won : 29.31%
+Won : 97.34%
 ### Baddie: HP: 3, STR: 4, DEX: 4 (Level 5)
-Won : 20.87%
+Won : 95.59%
 
 ---
 
 ### Baddie: HP: 4, STR: 1, DEX: 1 (Level 2)
-Won : 89.79%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 1, DEX: 2 (Level 3)
-Won : 83.73%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 1, DEX: 3 (Level 3)
-Won : 79.13%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 1, DEX: 4 (Level 4)
-Won : 66.16%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 4, STR: 2, DEX: 1 (Level 3)
-Won : 73.03%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 2, DEX: 2 (Level 3)
-Won : 59.60%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 2, DEX: 3 (Level 4)
-Won : 53.61%
+Won : 99.99%
 ### Baddie: HP: 4, STR: 2, DEX: 4 (Level 4)
-Won : 33.50%
+Won : 100.00%
 
 ---
 
 ### Baddie: HP: 4, STR: 3, DEX: 1 (Level 3)
-Won : 57.16%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 3, DEX: 2 (Level 4)
-Won : 41.89%
+Won : 100.00%
 ### Baddie: HP: 4, STR: 3, DEX: 3 (Level 4)
-Won : 34.57%
+Won : 99.98%
 ### Baddie: HP: 4, STR: 3, DEX: 4 (Level 5)
-Won : 19.07%
+Won : 99.95%
 
 ---
 
 ### Baddie: HP: 4, STR: 4, DEX: 1 (Level 4)
-Won : 32.64%
+Won : 98.38%
 ### Baddie: HP: 4, STR: 4, DEX: 2 (Level 4)
-Won : 22.24%
+Won : 96.82%
 ### Baddie: HP: 4, STR: 4, DEX: 3 (Level 5)
-Won : 17.54%
+Won : 95.52%
 ### Baddie: HP: 4, STR: 4, DEX: 4 (Level 5)
-Won : 11.86%
+Won : 94.10%
 
 ---
 
@@ -187,46 +187,46 @@ Won : 11.86%
 ---
 
 ### Baddie: HP: 1, STR: 1, DEX: 1 (Level 1)
-Won : 100.00%
+Won : 96.65%
 ### Baddie: HP: 1, STR: 1, DEX: 2 (Level 1)
-Won : 99.93%
+Won : 87.46%
 ### Baddie: HP: 1, STR: 1, DEX: 3 (Level 2)
-Won : 99.96%
+Won : 79.17%
 ### Baddie: HP: 1, STR: 1, DEX: 4 (Level 2)
-Won : 97.34%
+Won : 68.49%
 
 ---
 
 ### Baddie: HP: 2, STR: 1, DEX: 1 (Level 1)
-Won : 99.95%
+Won : 90.37%
 ### Baddie: HP: 2, STR: 1, DEX: 2 (Level 2)
-Won : 99.92%
+Won : 66.75%
 ### Baddie: HP: 2, STR: 1, DEX: 3 (Level 2)
-Won : 99.82%
+Won : 49.06%
 ### Baddie: HP: 2, STR: 1, DEX: 4 (Level 3)
-Won : 94.86%
+Won : 37.25%
 
 ---
 
 ### Baddie: HP: 3, STR: 1, DEX: 1 (Level 2)
-Won : 99.90%
+Won : 81.57%
 ### Baddie: HP: 3, STR: 1, DEX: 2 (Level 2)
-Won : 99.80%
+Won : 47.47%
 ### Baddie: HP: 3, STR: 1, DEX: 3 (Level 3)
-Won : 99.62%
+Won : 26.24%
 ### Baddie: HP: 3, STR: 1, DEX: 4 (Level 3)
-Won : 90.79%
+Won : 20.18%
 
 ---
 
 ### Baddie: HP: 4, STR: 1, DEX: 1 (Level 2)
-Won : 99.89%
+Won : 71.96%
 ### Baddie: HP: 4, STR: 1, DEX: 2 (Level 3)
-Won : 99.65%
+Won : 30.59%
 ### Baddie: HP: 4, STR: 1, DEX: 3 (Level 3)
-Won : 99.42%
+Won : 13.04%
 ### Baddie: HP: 4, STR: 1, DEX: 4 (Level 4)
-Won : 86.29%
+Won : 9.14%
 
 ---
 

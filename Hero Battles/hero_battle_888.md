@@ -1,5 +1,4 @@
-
-### Hero: HP: 8, STR: 8, DEX: 8
+### Hero: HP: 8, STR: 8, DEX: 8 (Level 7)
 
 ---
 
@@ -7,179 +6,328 @@
 
 ---
 
-### Baddie: HP: 5, STR: 5, DEX: 5
+### Baddie: HP: 4, STR: 4, DEX: 4 (Level 5)
 Won : 100.00%
-### Baddie: HP: 5, STR: 5, DEX: 6
-Won : 99.99%
-### Baddie: HP: 5, STR: 5, DEX: 7
-Won : 99.97%
-### Baddie: HP: 5, STR: 5, DEX: 8
+### Baddie: HP: 4, STR: 4, DEX: 5 (Level 6)
+Won : 100.00%
+### Baddie: HP: 4, STR: 4, DEX: 6 (Level 6)
+Won : 100.00%
+### Baddie: HP: 4, STR: 4, DEX: 7 (Level 7)
+Won : 100.00%
+### Baddie: HP: 4, STR: 4, DEX: 8 (Level 7)
+Won : 100.00%
+
+---
+
+### Baddie: HP: 4, STR: 5, DEX: 4 (Level 6)
+Won : 100.00%
+### Baddie: HP: 4, STR: 5, DEX: 5 (Level 6)
+Won : 100.00%
+### Baddie: HP: 4, STR: 5, DEX: 6 (Level 7)
+Won : 100.00%
+### Baddie: HP: 4, STR: 5, DEX: 7 (Level 7)
 Won : 99.98%
-
----
-
-### Baddie: HP: 5, STR: 6, DEX: 5
+### Baddie: HP: 4, STR: 5, DEX: 8 (Level 8)
 Won : 99.99%
-### Baddie: HP: 5, STR: 6, DEX: 6
-Won : 99.97%
-### Baddie: HP: 5, STR: 6, DEX: 7
-Won : 99.95%
-### Baddie: HP: 5, STR: 6, DEX: 8
-Won : 99.79%
 
 ---
 
-### Baddie: HP: 5, STR: 7, DEX: 5
-Won : 99.69%
-### Baddie: HP: 5, STR: 7, DEX: 6
-Won : 99.42%
-### Baddie: HP: 5, STR: 7, DEX: 7
-Won : 99.31%
-### Baddie: HP: 5, STR: 7, DEX: 8
-Won : 97.55%
-
----
-
-### Baddie: HP: 5, STR: 8, DEX: 5
-Won : 94.14%
-### Baddie: HP: 5, STR: 8, DEX: 6
-Won : 91.13%
-### Baddie: HP: 5, STR: 8, DEX: 7
-Won : 87.64%
-### Baddie: HP: 5, STR: 8, DEX: 8
-Won : 75.52%
-
----
-
-### Baddie: HP: 6, STR: 5, DEX: 5
+### Baddie: HP: 4, STR: 6, DEX: 4 (Level 6)
 Won : 100.00%
-### Baddie: HP: 6, STR: 5, DEX: 6
+### Baddie: HP: 4, STR: 6, DEX: 5 (Level 7)
 Won : 100.00%
-### Baddie: HP: 6, STR: 5, DEX: 7
-Won : 100.00%
-### Baddie: HP: 6, STR: 5, DEX: 8
-Won : 99.93%
-
----
-
-### Baddie: HP: 6, STR: 6, DEX: 5
-Won : 100.00%
-### Baddie: HP: 6, STR: 6, DEX: 6
-Won : 99.97%
-### Baddie: HP: 6, STR: 6, DEX: 7
-Won : 99.95%
-### Baddie: HP: 6, STR: 6, DEX: 8
-Won : 99.76%
-
----
-
-### Baddie: HP: 6, STR: 7, DEX: 5
-Won : 99.49%
-### Baddie: HP: 6, STR: 7, DEX: 6
-Won : 98.96%
-### Baddie: HP: 6, STR: 7, DEX: 7
-Won : 98.98%
-### Baddie: HP: 6, STR: 7, DEX: 8
-Won : 97.10%
-
----
-
-### Baddie: HP: 6, STR: 8, DEX: 5
-Won : 90.89%
-### Baddie: HP: 6, STR: 8, DEX: 6
-Won : 87.64%
-### Baddie: HP: 6, STR: 8, DEX: 7
-Won : 83.91%
-### Baddie: HP: 6, STR: 8, DEX: 8
-Won : 68.68%
-
----
-
-### Baddie: HP: 7, STR: 5, DEX: 5
-Won : 100.00%
-### Baddie: HP: 7, STR: 5, DEX: 6
-Won : 100.00%
-### Baddie: HP: 7, STR: 5, DEX: 7
-Won : 99.97%
-### Baddie: HP: 7, STR: 5, DEX: 8
-Won : 99.92%
-
----
-
-### Baddie: HP: 7, STR: 6, DEX: 5
+### Baddie: HP: 4, STR: 6, DEX: 6 (Level 7)
+Won : 99.98%
+### Baddie: HP: 4, STR: 6, DEX: 7 (Level 8)
+Won : 99.99%
+### Baddie: HP: 4, STR: 6, DEX: 8 (Level 8)
 Won : 99.96%
-### Baddie: HP: 7, STR: 6, DEX: 6
-Won : 99.91%
-### Baddie: HP: 7, STR: 6, DEX: 7
-Won : 99.94%
-### Baddie: HP: 7, STR: 6, DEX: 8
-Won : 99.54%
 
 ---
 
-### Baddie: HP: 7, STR: 7, DEX: 5
-Won : 99.35%
-### Baddie: HP: 7, STR: 7, DEX: 6
-Won : 98.59%
-### Baddie: HP: 7, STR: 7, DEX: 7
-Won : 98.54%
-### Baddie: HP: 7, STR: 7, DEX: 8
-Won : 95.39%
-
----
-
-### Baddie: HP: 7, STR: 8, DEX: 5
-Won : 88.84%
-### Baddie: HP: 7, STR: 8, DEX: 6
-Won : 82.98%
-### Baddie: HP: 7, STR: 8, DEX: 7
-Won : 79.47%
-### Baddie: HP: 7, STR: 8, DEX: 8
-Won : 60.71%
-
----
-
-### Baddie: HP: 8, STR: 5, DEX: 5
-Won : 100.00%
-### Baddie: HP: 8, STR: 5, DEX: 6
-Won : 99.98%
-### Baddie: HP: 8, STR: 5, DEX: 7
+### Baddie: HP: 4, STR: 7, DEX: 4 (Level 7)
 Won : 99.95%
-### Baddie: HP: 8, STR: 5, DEX: 8
-Won : 99.85%
+### Baddie: HP: 4, STR: 7, DEX: 5 (Level 7)
+Won : 99.78%
+### Baddie: HP: 4, STR: 7, DEX: 6 (Level 8)
+Won : 99.77%
+### Baddie: HP: 4, STR: 7, DEX: 7 (Level 8)
+Won : 99.71%
+### Baddie: HP: 4, STR: 7, DEX: 8 (Level 9)
+Won : 99.20%
 
 ---
 
-### Baddie: HP: 8, STR: 6, DEX: 5
+### Baddie: HP: 4, STR: 8, DEX: 4 (Level 7)
+Won : 99.18%
+### Baddie: HP: 4, STR: 8, DEX: 5 (Level 8)
+Won : 98.37%
+### Baddie: HP: 4, STR: 8, DEX: 6 (Level 8)
+Won : 97.29%
+### Baddie: HP: 4, STR: 8, DEX: 7 (Level 9)
+Won : 96.39%
+### Baddie: HP: 4, STR: 8, DEX: 8 (Level 9)
+Won : 90.61%
+
+---
+
+### Baddie: HP: 5, STR: 4, DEX: 4 (Level 6)
+Won : 100.00%
+### Baddie: HP: 5, STR: 4, DEX: 5 (Level 6)
+Won : 100.00%
+### Baddie: HP: 5, STR: 4, DEX: 6 (Level 7)
+Won : 100.00%
+### Baddie: HP: 5, STR: 4, DEX: 7 (Level 7)
+Won : 100.00%
+### Baddie: HP: 5, STR: 4, DEX: 8 (Level 8)
+Won : 100.00%
+
+---
+
+### Baddie: HP: 5, STR: 5, DEX: 4 (Level 6)
+Won : 100.00%
+### Baddie: HP: 5, STR: 5, DEX: 5 (Level 7)
+Won : 100.00%
+### Baddie: HP: 5, STR: 5, DEX: 6 (Level 7)
+Won : 100.00%
+### Baddie: HP: 5, STR: 5, DEX: 7 (Level 8)
+Won : 99.99%
+### Baddie: HP: 5, STR: 5, DEX: 8 (Level 8)
+Won : 99.96%
+
+---
+
+### Baddie: HP: 5, STR: 6, DEX: 4 (Level 7)
+Won : 100.00%
+### Baddie: HP: 5, STR: 6, DEX: 5 (Level 7)
+Won : 99.97%
+### Baddie: HP: 5, STR: 6, DEX: 6 (Level 8)
+Won : 99.99%
+### Baddie: HP: 5, STR: 6, DEX: 7 (Level 8)
+Won : 99.98%
+### Baddie: HP: 5, STR: 6, DEX: 8 (Level 9)
+Won : 99.90%
+
+---
+
+### Baddie: HP: 5, STR: 7, DEX: 4 (Level 7)
+Won : 99.96%
+### Baddie: HP: 5, STR: 7, DEX: 5 (Level 8)
+Won : 99.72%
+### Baddie: HP: 5, STR: 7, DEX: 6 (Level 8)
+Won : 99.64%
+### Baddie: HP: 5, STR: 7, DEX: 7 (Level 9)
+Won : 99.45%
+### Baddie: HP: 5, STR: 7, DEX: 8 (Level 9)
+Won : 98.60%
+
+---
+
+### Baddie: HP: 5, STR: 8, DEX: 4 (Level 8)
+Won : 98.93%
+### Baddie: HP: 5, STR: 8, DEX: 5 (Level 8)
+Won : 96.93%
+### Baddie: HP: 5, STR: 8, DEX: 6 (Level 9)
+Won : 95.46%
+### Baddie: HP: 5, STR: 8, DEX: 7 (Level 9)
+Won : 94.06%
+### Baddie: HP: 5, STR: 8, DEX: 8 (Level 10)
+Won : 87.62%
+
+---
+
+### Baddie: HP: 6, STR: 4, DEX: 4 (Level 6)
+Won : 100.00%
+### Baddie: HP: 6, STR: 4, DEX: 5 (Level 7)
+Won : 100.00%
+### Baddie: HP: 6, STR: 4, DEX: 6 (Level 7)
+Won : 100.00%
+### Baddie: HP: 6, STR: 4, DEX: 7 (Level 8)
+Won : 100.00%
+### Baddie: HP: 6, STR: 4, DEX: 8 (Level 8)
+Won : 100.00%
+
+---
+
+### Baddie: HP: 6, STR: 5, DEX: 4 (Level 7)
+Won : 100.00%
+### Baddie: HP: 6, STR: 5, DEX: 5 (Level 7)
+Won : 99.99%
+### Baddie: HP: 6, STR: 5, DEX: 6 (Level 8)
+Won : 99.98%
+### Baddie: HP: 6, STR: 5, DEX: 7 (Level 8)
+Won : 99.99%
+### Baddie: HP: 6, STR: 5, DEX: 8 (Level 9)
+Won : 99.98%
+
+---
+
+### Baddie: HP: 6, STR: 6, DEX: 4 (Level 7)
+Won : 99.99%
+### Baddie: HP: 6, STR: 6, DEX: 5 (Level 8)
+Won : 99.99%
+### Baddie: HP: 6, STR: 6, DEX: 6 (Level 8)
+Won : 99.97%
+### Baddie: HP: 6, STR: 6, DEX: 7 (Level 9)
+Won : 99.98%
+### Baddie: HP: 6, STR: 6, DEX: 8 (Level 9)
+Won : 99.90%
+
+---
+
+### Baddie: HP: 6, STR: 7, DEX: 4 (Level 8)
+Won : 99.85%
+### Baddie: HP: 6, STR: 7, DEX: 5 (Level 8)
+Won : 99.66%
+### Baddie: HP: 6, STR: 7, DEX: 6 (Level 9)
+Won : 99.37%
+### Baddie: HP: 6, STR: 7, DEX: 7 (Level 9)
+Won : 99.41%
+### Baddie: HP: 6, STR: 7, DEX: 8 (Level 10)
+Won : 97.98%
+
+---
+
+### Baddie: HP: 6, STR: 8, DEX: 4 (Level 8)
+Won : 98.01%
+### Baddie: HP: 6, STR: 8, DEX: 5 (Level 9)
+Won : 95.34%
+### Baddie: HP: 6, STR: 8, DEX: 6 (Level 9)
+Won : 92.92%
+### Baddie: HP: 6, STR: 8, DEX: 7 (Level 10)
+Won : 91.53%
+### Baddie: HP: 6, STR: 8, DEX: 8 (Level 10)
+Won : 82.80%
+
+---
+
+### Baddie: HP: 7, STR: 4, DEX: 4 (Level 7)
+Won : 100.00%
+### Baddie: HP: 7, STR: 4, DEX: 5 (Level 7)
+Won : 100.00%
+### Baddie: HP: 7, STR: 4, DEX: 6 (Level 8)
+Won : 100.00%
+### Baddie: HP: 7, STR: 4, DEX: 7 (Level 8)
+Won : 100.00%
+### Baddie: HP: 7, STR: 4, DEX: 8 (Level 9)
+Won : 99.99%
+
+---
+
+### Baddie: HP: 7, STR: 5, DEX: 4 (Level 7)
+Won : 100.00%
+### Baddie: HP: 7, STR: 5, DEX: 5 (Level 8)
+Won : 100.00%
+### Baddie: HP: 7, STR: 5, DEX: 6 (Level 8)
+Won : 99.99%
+### Baddie: HP: 7, STR: 5, DEX: 7 (Level 9)
+Won : 100.00%
+### Baddie: HP: 7, STR: 5, DEX: 8 (Level 9)
 Won : 99.92%
-### Baddie: HP: 8, STR: 6, DEX: 6
-Won : 99.85%
-### Baddie: HP: 8, STR: 6, DEX: 7
+
+---
+
+### Baddie: HP: 7, STR: 6, DEX: 4 (Level 8)
+Won : 99.98%
+### Baddie: HP: 7, STR: 6, DEX: 5 (Level 8)
+Won : 100.00%
+### Baddie: HP: 7, STR: 6, DEX: 6 (Level 9)
+Won : 99.97%
+### Baddie: HP: 7, STR: 6, DEX: 7 (Level 9)
+Won : 99.93%
+### Baddie: HP: 7, STR: 6, DEX: 8 (Level 10)
+Won : 99.74%
+
+---
+
+### Baddie: HP: 7, STR: 7, DEX: 4 (Level 8)
 Won : 99.83%
-### Baddie: HP: 8, STR: 6, DEX: 8
-Won : 99.26%
+### Baddie: HP: 7, STR: 7, DEX: 5 (Level 9)
+Won : 99.63%
+### Baddie: HP: 7, STR: 7, DEX: 6 (Level 9)
+Won : 99.18%
+### Baddie: HP: 7, STR: 7, DEX: 7 (Level 10)
+Won : 98.99%
+### Baddie: HP: 7, STR: 7, DEX: 8 (Level 10)
+Won : 97.29%
 
 ---
 
-### Baddie: HP: 8, STR: 7, DEX: 5
-Won : 99.02%
-### Baddie: HP: 8, STR: 7, DEX: 6
-Won : 98.47%
-### Baddie: HP: 8, STR: 7, DEX: 7
-Won : 97.85%
-### Baddie: HP: 8, STR: 7, DEX: 8
-Won : 93.93%
+### Baddie: HP: 7, STR: 8, DEX: 4 (Level 9)
+Won : 97.30%
+### Baddie: HP: 7, STR: 8, DEX: 5 (Level 9)
+Won : 93.78%
+### Baddie: HP: 7, STR: 8, DEX: 6 (Level 10)
+Won : 91.13%
+### Baddie: HP: 7, STR: 8, DEX: 7 (Level 10)
+Won : 88.45%
+### Baddie: HP: 7, STR: 8, DEX: 8 (Level 11)
+Won : 76.70%
 
 ---
 
-### Baddie: HP: 8, STR: 8, DEX: 5
-Won : 84.60%
-### Baddie: HP: 8, STR: 8, DEX: 6
-Won : 79.35%
-### Baddie: HP: 8, STR: 8, DEX: 7
-Won : 74.56%
-### Baddie: HP: 8, STR: 8, DEX: 8
-Won : 53.56%
+### Baddie: HP: 8, STR: 4, DEX: 4 (Level 7)
+Won : 100.00%
+### Baddie: HP: 8, STR: 4, DEX: 5 (Level 8)
+Won : 100.00%
+### Baddie: HP: 8, STR: 4, DEX: 6 (Level 8)
+Won : 100.00%
+### Baddie: HP: 8, STR: 4, DEX: 7 (Level 9)
+Won : 100.00%
+### Baddie: HP: 8, STR: 4, DEX: 8 (Level 9)
+Won : 99.99%
+
+---
+
+### Baddie: HP: 8, STR: 5, DEX: 4 (Level 8)
+Won : 99.98%
+### Baddie: HP: 8, STR: 5, DEX: 5 (Level 8)
+Won : 100.00%
+### Baddie: HP: 8, STR: 5, DEX: 6 (Level 9)
+Won : 99.98%
+### Baddie: HP: 8, STR: 5, DEX: 7 (Level 9)
+Won : 100.00%
+### Baddie: HP: 8, STR: 5, DEX: 8 (Level 10)
+Won : 99.95%
+
+---
+
+### Baddie: HP: 8, STR: 6, DEX: 4 (Level 8)
+Won : 100.00%
+### Baddie: HP: 8, STR: 6, DEX: 5 (Level 9)
+Won : 99.99%
+### Baddie: HP: 8, STR: 6, DEX: 6 (Level 9)
+Won : 99.98%
+### Baddie: HP: 8, STR: 6, DEX: 7 (Level 10)
+Won : 99.90%
+### Baddie: HP: 8, STR: 6, DEX: 8 (Level 10)
+Won : 99.65%
+
+---
+
+### Baddie: HP: 8, STR: 7, DEX: 4 (Level 9)
+Won : 99.70%
+### Baddie: HP: 8, STR: 7, DEX: 5 (Level 9)
+Won : 99.37%
+### Baddie: HP: 8, STR: 7, DEX: 6 (Level 10)
+Won : 99.13%
+### Baddie: HP: 8, STR: 7, DEX: 7 (Level 10)
+Won : 98.55%
+### Baddie: HP: 8, STR: 7, DEX: 8 (Level 11)
+Won : 96.48%
+
+---
+
+### Baddie: HP: 8, STR: 8, DEX: 4 (Level 9)
+Won : 96.33%
+### Baddie: HP: 8, STR: 8, DEX: 5 (Level 10)
+Won : 92.07%
+### Baddie: HP: 8, STR: 8, DEX: 6 (Level 10)
+Won : 88.37%
+### Baddie: HP: 8, STR: 8, DEX: 7 (Level 11)
+Won : 84.93%
+### Baddie: HP: 8, STR: 8, DEX: 8 (Level 11)
+Won : 70.39%
 
 ---
 
@@ -187,46 +335,68 @@ Won : 53.56%
 
 ---
 
-### Baddie: HP: 5, STR: 4, DEX: 5
+### Baddie: HP: 4, STR: 1, DEX: 4 (Level 4)
+Won : 100.00%
+### Baddie: HP: 4, STR: 1, DEX: 5 (Level 4)
+Won : 99.99%
+### Baddie: HP: 4, STR: 1, DEX: 6 (Level 5)
+Won : 99.95%
+### Baddie: HP: 4, STR: 1, DEX: 7 (Level 5)
+Won : 99.10%
+### Baddie: HP: 4, STR: 1, DEX: 8 (Level 6)
+Won : 90.08%
+
+---
+
+### Baddie: HP: 5, STR: 1, DEX: 4 (Level 4)
+Won : 100.00%
+### Baddie: HP: 5, STR: 1, DEX: 5 (Level 5)
 Won : 99.96%
-### Baddie: HP: 5, STR: 4, DEX: 6
+### Baddie: HP: 5, STR: 1, DEX: 6 (Level 5)
+Won : 99.86%
+### Baddie: HP: 5, STR: 1, DEX: 7 (Level 6)
+Won : 98.77%
+### Baddie: HP: 5, STR: 1, DEX: 8 (Level 6)
+Won : 85.98%
+
+---
+
+### Baddie: HP: 6, STR: 1, DEX: 4 (Level 5)
+Won : 100.00%
+### Baddie: HP: 6, STR: 1, DEX: 5 (Level 5)
+Won : 99.95%
+### Baddie: HP: 6, STR: 1, DEX: 6 (Level 6)
 Won : 99.85%
-### Baddie: HP: 5, STR: 4, DEX: 7
-Won : 97.82%
-### Baddie: HP: 5, STR: 4, DEX: 8
-Won : 77.09%
+### Baddie: HP: 6, STR: 1, DEX: 7 (Level 6)
+Won : 97.72%
+### Baddie: HP: 6, STR: 1, DEX: 8 (Level 7)
+Won : 80.04%
 
 ---
 
-### Baddie: HP: 6, STR: 4, DEX: 5
-Won : 99.93%
-### Baddie: HP: 6, STR: 4, DEX: 6
-Won : 99.72%
-### Baddie: HP: 6, STR: 4, DEX: 7
-Won : 96.91%
-### Baddie: HP: 6, STR: 4, DEX: 8
-Won : 69.56%
+### Baddie: HP: 7, STR: 1, DEX: 4 (Level 5)
+Won : 100.00%
+### Baddie: HP: 7, STR: 1, DEX: 5 (Level 6)
+Won : 99.95%
+### Baddie: HP: 7, STR: 1, DEX: 6 (Level 6)
+Won : 99.77%
+### Baddie: HP: 7, STR: 1, DEX: 7 (Level 7)
+Won : 96.92%
+### Baddie: HP: 7, STR: 1, DEX: 8 (Level 7)
+Won : 74.26%
 
 ---
 
-### Baddie: HP: 7, STR: 4, DEX: 5
-Won : 99.93%
-### Baddie: HP: 7, STR: 4, DEX: 6
-Won : 99.50%
-### Baddie: HP: 7, STR: 4, DEX: 7
-Won : 95.60%
-### Baddie: HP: 7, STR: 4, DEX: 8
-Won : 62.71%
+### Baddie: HP: 8, STR: 1, DEX: 4 (Level 6)
+Won : 99.99%
+### Baddie: HP: 8, STR: 1, DEX: 5 (Level 6)
+Won : 99.92%
+### Baddie: HP: 8, STR: 1, DEX: 6 (Level 7)
+Won : 99.71%
+### Baddie: HP: 8, STR: 1, DEX: 7 (Level 7)
+Won : 96.09%
+### Baddie: HP: 8, STR: 1, DEX: 8 (Level 8)
+Won : 67.48%
 
 ---
 
-### Baddie: HP: 8, STR: 4, DEX: 5
-Won : 99.89%
-### Baddie: HP: 8, STR: 4, DEX: 6
-Won : 99.29%
-### Baddie: HP: 8, STR: 4, DEX: 7
-Won : 94.03%
-### Baddie: HP: 8, STR: 4, DEX: 8
-Won : 55.84%
-
----

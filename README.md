@@ -31,7 +31,7 @@ Any race can learn the magic of another race through practice. Since this is not
 
 ### Character
 
-**Attributes:** Each cAttackingharacter has four attributes. (See Oracle) Start with 12 points and distribute as desired. Attributes have a starting max level of 4 and have a game max level of 9, though item bonuses can bring it higher.
+**Attributes:** Each attacking character has four attributes. (See Oracle) Start with 12 points and distribute as desired. Attributes have a starting max level of 4 and have a game max level of 9, though item bonuses can bring it higher.
 
 **Lucky Shots:** You may trade one or more attribute point for 3 lucky shots each. One lucky shot is exchanged for an extra roll at any time. Lucky shots are restored when you get XP. Lucky shots use the same number of dice as the current level if used after you start rolling. If used before you start rolling, each lucky shot will increase the level of the roll by one.
 
