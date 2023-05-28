@@ -96,7 +96,7 @@ Each additional level increases by 2 for Medium(8), Hard(10), and Heroic(12)
 
 * Check out the "Hero Battles" folder to see the results of hundreds of thousands of simulated battles between different level heroes and monsters.
 
-### PC (3 HP, 4 STR, 4 DEX, 1 INT) + (+1 DEX bow) vs...
+### PC (3 HP, 4 STR, 4 DEX, 3 INT) + (+1 DEX bow) vs...
 
 1. **Mice x3** (1 HP, 1 STR, 1 DEX, 1 INT)
 
@@ -110,10 +110,9 @@ Each additional level increases by 2 for Medium(8), Hard(10), and Heroic(12)
 
 2. **Mice x3** (1 HP, 1 STR, 1 DEX, 1 INT) magic attack
 
-    * PC attacks with Fireball, an INT attack (unavoidable, if it hits, all creatures in a small area catch fire)
+    * PC attacks with Fireball (Medium(8) difficulty, unavoidable, if it hits, all creatures in a small area catch fire)
     * PC rolls fray die for a 2 and does no damage
-    * PC rolls on INT(1) and gets a 4 (INT drops to zero for the next turn)
-    * Mice roll on INT(1) and gets a 3 (INT drops to zero for the next turn)
+    * PC rolls on INT(3) and gets an 8 (INT drops to zero for the next turn)
     * Mice catch on fire
     * At the start of the mice's turn, all mice roll for a saving throw
     * Mouse 1 rolls on STR(1) for a 5, takes one point of damage and dies
