@@ -32,6 +32,6 @@ Any race can learn 3 spells from other races.
 
 **Leveling:** At the end of a single adventure, each hero gets one XP and all spent lucky shots are restored. You need the number of the next level more XP to advance to that level. Each time you level up, you get 2 trait points.
 
-**Healing:** Each ally can heal up to 2 HP between battles. Elves may attempt to perform a full heal at a medium(8) difficulty, or raise the dead at a hard(10) difficulty.
+**Healing:** Each ally can heal 1 HP between battles. Elves may attempt to perform a full heal at a medium(8) difficulty, or raise the dead at a hard(10) difficulty.
 
 **Monsters:** A level 1 monster has 4 total trait points. (Often one point to each trait) Monsters level the same way as Heroes, so a level 5 monster is equal to a level 1 hero.

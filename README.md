@@ -64,7 +64,7 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Leveling:** At the end of a single adventure, (or whenever you feel is right) each hero gets one XP and all spent lucky shots are restored. You need the number of the next level more XP to advance to that level. (level 4 is 4 XP higher than level 3) Each time you level up, you get 2 points you can choose to spend on any traits or lucky shot tokens.
 
-**Healing:** Each ally can heal up to 2 HP between battles. Elves may attempt to perform a full heal at a medium(8) difficulty, or raise the dead at a hard(10) difficulty. Beast-kin may attempt a full heal on themselves.
+**Healing:** Each ally can heal 1 HP between battles. Elves may attempt to perform a full heal at a medium(8) difficulty, or raise the dead at a hard(10) difficulty. Beast-kin may attempt a full heal on themselves.
 
 **Monsters:** A level 1 monster has 4 total trait points. (Often one point to each trait) Monsters level the same way as Heroes, so a level 5 monster will have 8 additional trait points, or 12 total, the same as a level 1 hero.
 
