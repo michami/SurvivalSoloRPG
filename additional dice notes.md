@@ -1,3 +1,8 @@
+
+#Example dice:
+
+![Dice](d4dice.jpg)
+
 ### Additional notes on dice:
 
 ### I started with the standard list of elements, Earth, Water, Wind, and Fire
@@ -62,7 +67,7 @@ You could choose to keep this information secret from your character. If a chara
 
 ### Story example: (Summarized) [single die value] [2x double dice value]
 
-I enter a tavern. There are [2] two people here. Person one is [1][2] a human female who is [1] friendly to me. Does she want to go on an adventure with me? [2x3] Maybe, but [2] she's married and needs to talk to her husband. Would he want to go with us? [2x4 +2] Yes! He's a skilled adventurer and has been talking about going on an adventure again. We should go ask him to join. As we walk, I ask her what her fighting style is, and she's a [0] bard. Helping indirectly in battle with supporting songs. (Healing, STR boost, DEX boost)
+I enter a tavern. There are [2] two people here. Person one is [1][2] a human female who is [1] friendly to me. Does she want to go on an adventure with me? [2x3] Maybe, but [2] she's married and needs to talk to her husband. Would he want to go with us? [2x4 +2 = 6] Yes! He's a skilled adventurer and has been talking about going on an adventure again. We should go ask him to join. As we walk, I ask her what her fighting style is, and she's a [0] bard. Helping indirectly in battle with supporting songs. (Healing, STR boost, DEX boost)
 
 We approach her house. The environment is [2x1] very poor. The door is off the hinges and there's a mess. We search the house and find [1] a note written by a friend. He was here earlier and headed off to follow the trail. He'll meet the wife at the edge of the woods, North of here. We travel there and meet him.
 
@@ -80,6 +85,13 @@ You roll to find out answers that your character asks as well as their observati
 
 Often, when telling a story, you will want to add a modifier to skew the results. For example, if you ask someone to join you and you roll a 6, showing that they are thrilled to join, then you ask if their friends would want to join too, you may want to add a +2 to the roll, since it's almost certain that they would want to, but their enthusiasm to join may vary.
 
+### Difficulties:
+
+* Trivial(4): A level 3 trait will always succeed unless you roll a 0
+* Easy(6): A level 3 trait will succeed on average by rolling a 3
+
+Each additional level increases by 2 for Medium(8), Hard(10), and Heroic(12)
+
 ### Example Battles:
 
 * Check out the "Hero Battles" folder to see the results of hundreds of thousands of simulated battles between different level heroes and monsters.
@@ -89,42 +101,42 @@ Often, when telling a story, you will want to add a modifier to skew the results
 1. **Mice x3** (1 HP, 1 STR, 1 DEX, 1 INT)
 
     * PC attacks with a STR attack (stomp)
-    * PC rolls 1 die for a 3 and does 1 fray damage, killing 1 mouse
-    * PC rolls 2 dice, 1 time (4 DEX) and gets a 3
-    * Mice rolls 1 die 1 time (1 DEX) and gets a 2 (no evade modifier)
-    * PC rolls 2 dice 1 time (4 STR) and gets a 5
-    * Mice roll 1 die 1 time (1 STR) and gets a 3
+    * PC rolls fray die for a 3 and does 1 damage, killing 1 mouse
+    * PC rolls on DEX(4) and gets a 6
+    * Mice rolls on DEX(1) and gets a 4 (no evade modifier)
+    * PC rolls on STR(4) and gets a 7
+    * Mice roll on STR(1) and gets a 5
     * Mice take 2 more points of damage, killing the last two mice
 
 2. **Mice x3** (1 HP, 1 STR, 1 DEX, 1 INT) magic attack
 
-    * PC attacks with an INT attack (Fireball, unavoidable)
-    * PC rolls 1 die for a 2 and does no fray damage
-    * PC rolls 1 die 1 time (1 INT) and gets a 3
-    * Mice roll 1 die 1 time (1 INT) and gets a 2
+    * PC attacks with Fireball, an INT attack (unavoidable, if it hits, all creatures in a small area catch fire)
+    * PC rolls fray die for a 2 and does no damage
+    * PC rolls on INT(1) and gets a 4 (INT drops to zero for the next turn)
+    * Mice roll on INT(1) and gets a 3 (INT drops to zero for the next turn)
     * Mice catch on fire
     * At the start of the mice's turn, all mice roll for a saving throw
-    * Mouse 1 rolls 1 die (1 HP) for a 1, takes one point of damage and dies
-    * Mouse 2 rolls 1 die (1 HP) for a 2, takes one point of damage and dies
-    * Mouse 3 rolls 1 die (1 HP) for a 3, and survives the fire
+    * Mouse 1 rolls on STR(1) for a 5, takes one point of damage and dies
+    * Mouse 2 rolls on STR(1) for a 3, takes one point of damage and dies
+    * Mouse 3 rolls on STR(1) for a 6, and survives the fire
     * The remaining mouse attacks back
 
 3. **Squirrel** (1 HP, 1 STR, 4 DEX, 1 INT)
 
     * PC attacks with a DEX attack (using +1 DEX bow)
-    * PC rolls 1 die for a 2 and does no fray damage
-    * PC rolls 2 die 2 times (5 DEX) and gets a high roll of 4
-    * squirrel rolls 2 dice one time (4 DEX) and gets a 3
+    * PC rolls fray die for a 2 and does no damage
+    * PC rolls on DEX(4+1) and gets an 8
+    * squirrel rolls on DEX(4) and gets a 7
     * squirrel takes 1 point of damage and dies
 
 4. **Badger** (2 HP, 3 STR, 2 DEX, 1 INT)
 
     * Badger attacks with a STR attack (claws)
-    * Badger rolls 1 die 2 times (2 DEX) and gets a high roll of 3
-    * PC rolls 2 die 1 times (4 DEX) and gets a 4
+    * Badger rolls on DEX(2) and gets a 5
+    * PC rolls on DEX(4) and gets a 6
     * PC gets an evade modifier of 1
-    * Badger rolls 1 die 3 times (3 STR) and gets a high roll of 3
-    * PC rolls 2 die 1 time (4 STR) and gets a 1
-    * Badger does (2 (STR) - 1 (DEX) = 1) point damage dropping PC to 2 HP
+    * Badger rolls on STR(3) and gets a 7
+    * PC rolls on STR(4) and gets a 5
+    * Badger does (2 STR - 1 DEX = 1) point damage dropping PC to 2 HP
 
 Be creative. Instead of a direct attack, you could challenge an ogre to a drinking challenge. Roll on HP for each round until one of you reach 1 HP and pass out. (In which case, you would restore your HP the next day) If you play a Dwarf, you could say Dwarfs have a +2 HP bonus when rolling for drinking.
