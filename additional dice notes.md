@@ -24,7 +24,7 @@
 * The blank side is your family / foundation. Your starting point.
 * The single line is your friend. The person who will stand with you.
 * The two lines are the lovers, standing together.
-* The three lines are danger, and can either be a claw swipe, or a group of people going to war.
+* The three lines are danger, the swipe of a claw, or a group of people going to war.
 
 ### Roll multiple times to get modifiers. ie:
 
@@ -112,7 +112,7 @@ Each additional level increases by 2 for Medium(8), Hard(10), and Heroic(12)
 
     * PC attacks with Fireball (Medium(8) difficulty, unavoidable, if it hits, all creatures in a small area catch fire)
     * PC rolls fray die for a 2 and does no damage
-    * PC rolls on INT(3) and gets an 8 (INT drops to zero for the next turn)
+    * PC rolls on manna(3) and gets an 8 (manna drops to zero)
     * Mice catch on fire
     * At the start of the mice's turn, all mice roll for a saving throw
     * Mouse 1 rolls on STR(1) for a 5, takes one point of damage and dies

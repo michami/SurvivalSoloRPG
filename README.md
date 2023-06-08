@@ -1,6 +1,6 @@
 ## Survival Solo RPG:
 
-Use two d4 dice valued 0 to 3. Use some kind of tokens to indicate traits. Trait default values can be represented by notches on a stick, etc. See [additional dice notes](additional dice notes.md) for more information on the dice. "3" is the magic number for many of the rules.
+Use two d4 dice valued 0 to 3. Use rocks as tokens to indicating values that change during play. Trait values can be represented by notches on a stick, etc. See [additional dice notes](additional dice notes.md) for more information on the dice. "3" is the magic number for many of the rules.
 
 ### Oracle:
 Roll one die as an oracle.  Roll multiple times to get modifiers.
@@ -20,23 +20,25 @@ For ranged values, roll two dice to get a value from 0 (very bad) to 6 (very goo
 
 **Human:** Electrical magic. Electronics. Constructs. Complex mechanical traps. Complex weapons such as firearms, crossbows, etc.
 
-**Elf:** Any nature / spiritual magic, healing others, golems, sentient weapons.
+**Elf:** Nature / spiritual magic, healing others, golems, sentient weapons.
 
-**Beast-kin:** Self transformation / boosting magic. Can change into an animal with +1/2 point per level, rounded up, to traits based on animal type. Can change into a human with +1/2 point per level, rounded up, to INT. Animal form cannot use weapons or armor. Can only use magic, other than transforming, in their natural form. The difficulty to transform is easy (6) using the unmodified INT level.
+**Beast-kin:** Self transformation / boosting magic. Can change into an animal with +1/2 point per level, rounded up, to traits based on animal type. Can change into a human with +1/2 point per level, rounded up, to INT. Animal form cannot use weapons or armor. Can only use magic in their natural form. Transformation always succeeds, takes one full turn, and costs two manna.
 
 Any race can learn the magic of another race through practice. Since this is not natural for the race, no more than 3 spells from other races can be learned.
 
 ### Character
 
-**Traits:** Each attacking character has four traits, HP, STR, DEX and INT. Start with 12 points and distribute as desired. Traits have a starting max of level 4.
+**Traits:** Each attacking character has four traits, HP, STR, DEX and INT. Start with 12 points and distribute as desired.
 
-**Lucky Shots:** You may trade one or more trait points for 3 lucky shots each. One lucky shot is exchanged for an extra roll at any time, picking the more preferred result. Lucky shots are restored whenever you gain an XP.
+**Lucky Shots:** You may trade trait points for 3 lucky shots each. One lucky shot is exchanged for an extra roll at any time, picking the more preferred result. Lucky shots are restored whenever you gain an XP.
 
 **Charisma:** Charisma uses INT. Roll INT for both characters. Must beat the target's score to win. Modifiers can be used based on the circumstances.
 
+**Magic:** You have one manna (magic) token per level of INT. Any time you use manna, choose how many levels to use, then temporarily drop your manna by that many tokens. You regain one lost manna per turn.
+
 ### Fighting
 
-**Rolling the dice:** Roll 2 dice and add the appropriate trait. Any time you use INT, choose how many levels to use, then temporarily drop INT by that many levels. You regain one lost level of INT per turn.
+**Rolling the dice:** Roll 2 dice and add the appropriate trait.
 
 **Challenge Difficulties:** Trivial(4), Easy(6), Medium(8), Hard(10), and Heroic(12). Roll to match or better. Rolling 0 (6.25%) always fails.
 
@@ -46,21 +48,21 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Strength (STR) based attacks:** Roll on DEX for both attacker and defender. If the defender rolls higher, this is the amount of damage dodged. Then the attacker and defender roll on STR. If the attacker rolls higher, this is the damage done, minus the damage dodged.
 
-**Magic attacks:** Because of the different ways magic can be used, there are no set rules for magic. Your magic level is your INT, and depending on the spell, may be used in place of DEX or STR using the same rules as above. These rules may be modified for the spell used, such as AoE spells.
+**Magic attacks:** Because of the different ways magic can be used, there are no set rules for magic. Depending on the spell, magic may be used in place of DEX or STR using the same rules as above. These rules may be modified for the spell used, such as AoE spells.
 
 **Damage overflow:** If you do more damage than a single enemy can take, you can spend the overflow damage on an enemy, of equal or less level, adjacent to the first. This can be repeated for as many enemies are there are, as long as they are adjacent to each other. Any one of the remaining enemies can return an attack before you attack again.
 
 **Weapons and armor:** Weapons add (or subtract) levels to your attack rolls. Armor adds (or subtracts) levels to your defense rolls.
 
-**Saving throws:** If poisoned, burning, etc. roll for easy difficulty (6) on your STR or INT. If you fail the save, you lose one HP and must roll again on your next turn. Repeat until you succeed or your HP reaches 0. If your HP reaches 0 for any reason, including battle, roll for hard difficulty (10) on INT for divine intervention. If you succeed in a divine intervention, restore 1 HP and remove all status effects. (Negative and positive)
+**Saving throws:** If poisoned, burning, etc. roll for easy difficulty (6) on your STR or HP. If you fail the save, you lose one HP and must roll again on your next turn. Repeat until you succeed or your HP reaches 0. If your HP reaches 0 for any reason, including battle, roll for hard difficulty (10) on INT for divine intervention. If you succeed in a divine intervention, restore 1 HP and remove all status effects. (Negative and positive)
 
 **Breaking Objects:** Objects only have a LVL. Attacker rolls on STR to beat the LVL difficulty.
 
-**Traps:** Traps have a LVL which must be beat with INT to disarm. LVL acts like DEX if triggered. When creating a trap, roll on INT to find the trap's LVL. A failed roll to disarm will trigger the trap.
+**Traps:** Traps have a LVL which must be beat with INT to disarm. LVL acts like DEX if triggered. A failed roll to disarm will trigger the trap. When creating a trap, roll on INT to find the trap's LVL.
 
-**Constructs and Golems:** Roll on INT for the level. Use the rules for monsters to determine how many trait points to distribute.
+**Constructs and Golems:** Roll on manna for the level. Use the rules for monsters to determine how many trait points to distribute.
 
-**Meditation:** When not in battle, you can choose to meditate. For each turn you meditate, you increase your INT by one on your next INT roll. There is also a 50% chance to be attacked by a low-level monster each turn.  If your meditation is interrupted, you loose the INT bonus and the monster attacks first.
+**Meditation:** When not in battle, you can choose to meditate. For each turn you meditate, you temporarily increase your manna pool by one token. There is also a 50% chance to be attacked by a low-level monster each turn.  If your meditation is interrupted, you loose the manna bonus and the monster attacks first. You keep this manna boost until it is spent.
 
 **Leveling:** At the end of a single adventure, (or whenever you feel is right) each hero gets one XP and all spent lucky shots are restored. You need the number of the next level more XP to advance to that level. (level 4 is 4 XP higher than level 3) Each time you level up, you get 2 points you can choose to spend on any traits or lucky shot tokens.
 
