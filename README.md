@@ -1,6 +1,6 @@
 ## Survival Solo RPG:
 
-Use two d4 dice valued 0 to 3. Use rocks as tokens to indicating values that change during play. Trait values can be represented by notches on a stick, etc. See [additional dice notes](additional dice notes.md) for more information on the dice. "3" is the magic number for many of the rules.
+Use two d4 dice valued 0 to 3. Use rocks as tokens to indicating values that change during play. Trait values can be represented by notches on a stick, etc. See [additional dice notes](additional_dice_notes.md) for more information on the dice. "3" is the magic number for many of the rules.
 
 ### Oracle:
 Roll one die as an oracle.  Roll multiple times to get modifiers.
