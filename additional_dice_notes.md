@@ -5,6 +5,10 @@
 
 ### Additional notes on dice:
 
+The dice don't need to be perfectly balanced. You can "roll" the dice in your hands, one each, and then bring them together in the middle, side-by-side, to read the values.  You don't even need a flat surface to use them this way, and if the lighting is too low, you can run your finger down the front of them to feel the number of notches facing you.
+
+You could also, of course, just make a single die and roll it twice.
+
 ### I started with the standard list of elements, Earth, Water, Wind, and Fire
 
 * Earth is the foundation. Your body / HP. The flat surface representing a flat field.
