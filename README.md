@@ -28,17 +28,17 @@ Any race can learn the magic of another race through practice. Since this is not
 
 ### Character
 
-**Traits:** Each attacking character has four traits, HP, STR, DEX and INT. Start with 12 points and distribute as desired.
+**Traits:** Each character has four traits, HP, STR, DEX and INT. Heros start with 12 points and distribute as desired.
 
-**Lucky Shots:** You may trade trait points for 3 lucky shots each. One lucky shot is exchanged for an extra roll at any time, picking the more preferred result. Lucky shots are restored whenever you gain an XP.
+**Lucky Shots:** You may trade trait points for 3 lucky shots each. One lucky shot is exchanged for an extra roll at any time, picking the more preferred result. One lucky shot is restored after each encounter.
 
 **Charisma:** Charisma uses INT. Roll INT for both characters. Must beat the target's score to win. Modifiers can be used based on the circumstances.
 
-**Magic:** You have one manna (magic) token per level of INT. When you use manna, choose how many levels to use, then temporarily drop your manna by that many tokens. You regain one lost manna token per turn up to INT tokens.
+**Magic:** You have one manna (magic) token per level of INT. When you use manna, choose how many levels to use, then temporarily drop your manna by that many tokens. You regain one lost manna token per turn up to INT tokens. Manna spent on long running spells, such as pets and summonings, don't regenerate until the spell ends.
 
 ### Fighting
 
-**Rolling the dice:** Roll 2 dice and add the appropriate trait.
+**Rolling the dice:** Roll 2 dice and add the appropriate trait and any other modifiers.
 
 **Challenge Difficulties:** Trivial(4), Easy(6), Medium(8), Hard(10), and Heroic(12). Roll to match or better. Rolling 0 (6.25%) always fails.
 
@@ -68,6 +68,6 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Healing:** Each ally can heal 1 HP between battles. Elves and Beast-kin may attempt to perform a full heal at a trivial(4) + target level difficulty. Elves may attempt to raise the dead at an easy(6) + target level difficulty.
 
-**Monsters:** Monsters and pets get LEVEL x 2 total trait points. A level 6 monster will have 12 total trait points, the same as a level 1 hero.
+**Monsters:** Monsters and pets get 2x LEVEL total trait points. A level 6 monster will have 12 total trait points, the same as a level 1 hero.
 
 **Creating a Map:** Roll multiple dice, or a single dice multiple times to find what exits the current room has. Zero is the way you entered the room, 1 is to the left, 2 is straight ahead, 3 is to the right. Ignore duplicate values. Ask the oracle about any room features.
