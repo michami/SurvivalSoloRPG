@@ -30,14 +30,6 @@ You could also, of course, just make a single die and roll it twice.
 * The two lines are the lovers, standing together.
 * The three lines are danger, the swipe of a claw, or a group of people going to war.
 
-### Roll multiple times to get modifiers. ie:
-
-* enemy + family = A family enemy or a feud between families.
-* Lovers + family = someone married.
-* Lovers + friend = someone flirty or boyfriend / girlfriend.
-
-You could choose to keep this information secret from your character. If a character is a enemy + friend, you could make him an enemy who pretends to be a friend, but will turn on your character at some point in the future.
-
 ### You can also roll two dice, as shown below, to get a range of how strong the person's actions are. ie:
 
 * From fatherly / motherly, to an actual in-law or a family member you haven't seen in a while
@@ -69,25 +61,6 @@ You could choose to keep this information secret from your character. If a chara
 | 5    | "I'd love to. I actually have some skills you might find useful."                          |
 | 6    | "I sure would! My husband and I have been talking about leveling up."                      |
 
-### Story example: (Summarized) [single die value] [2x double dice value]
-
-I enter a tavern. There are [2] two people here. Person one is [1][2] a human female who is [1] friendly to me. Does she want to go on an adventure with me? [2x3] Maybe, but [2] she's married and needs to talk to her husband. Would he want to go with us? [2x4 +2 = 6] Yes! He's a skilled adventurer and has been talking about going on an adventure again. We should go ask him to join. As we walk, I ask her what her fighting style is, and she's a [0] bard. Helping indirectly in battle with supporting songs. (Healing, STR boost, DEX boost)
-
-We approach her house. The environment is [2x1] very poor. The door is off the hinges and there's a mess. We search the house and find [1] a note written by a friend. He was here earlier and headed off to follow the trail. He'll meet the wife at the edge of the woods, North of here. We travel there and meet him.
-
-We follow a trail to a clearing and see [3] three lookouts. The first one is [2x0] resting against a tree, rolling a smoke.  We easily dispatch him. (no conflict) The second lookout is [2x4] keeping an eye on the area. (roll for sneaking around / battle, etc.)
-
-... after dispatching the lookouts and guards ...
-
-When the husband sees his wife, he acts [3] aggressive, attacking the team. (roll for battle, knocking him out) We find he has magical symbols on him, some kind of curse, that seem to alter his mind somehow. Since the wife is a bard, she rolls to remove the magic using a song. Afterwards, whether or not she succeeds, we go on an adventure to find the person responsible along with the friend and the husband if she succeeded in removing the curse.
-
-### Roll on observations and conversations:
-
-You roll to find out answers that your character asks as well as their observation of the world around them. If you ask someone, "Did you kill that man over there?" and you roll a 0, they may have still killed the man, but are lying about it. You don't roll to find the truth about the world, only what your character can see of it.
-
-### Modifiers:
-
-Often, when telling a story, you will want to add a modifier to skew the results. For example, if you ask someone to join you and you roll a 6, showing that they are thrilled to join, then you ask if their friends would want to join too, you may want to add a +2 to the roll, since it's almost certain that they would want to, but their enthusiasm to join may vary.
 
 ### Difficulties:
 
@@ -95,6 +68,121 @@ Often, when telling a story, you will want to add a modifier to skew the results
 * Easy(6): A level 3 trait will succeed on average by rolling a 3
 
 Each additional level increases by 2 for Medium(8), Hard(10), and Heroic(12)
+
+### Leveling:
+
+It takes 54 encounters to reach level 10, at which point you would have 30 (12+18) total points into traits. This could be 7 points into each Trait (HP, DEX, STR, INT) plus two points into lucky shots. (6 lucky shots)
+
+It takes an additional 65 encounters to reach level 15, and you'd only have 10 more points into traits. Points can be transferred to and from lucky shots, but not between traits. This means it would take two level ups to transfer points from one trait to another.
+
+### Constructs and Gulems examples:
+
+I have 5 points into my INT. I could create a single pet with a +5 modifier, or I could cast more than once to get multiple, smaller pets. (ie: cast with 3 manna, then again with 2 manna)
+
+You can meditate to temporarily gain some manna back while a pet is active.
+
+If you meditate before casting, you can make a more powerful pet.  However, if you meditate and don't use all the manna, the number of manna used by the pet first comes out of your INT. For example, if I meditate twice for a total of 7 manna, then use 4 manna to cast a pet, I will have 3 manna remaining for other magic, but if used, I can only regenerate 1 manna until the pet dies.
+
+You must spend at least one manna when creating a pet.
+
+Spending 3 manna will, on average, create pets as powerful as a level 1 hero.
+
+### Adventure examples:
+
+In each of these adventures, I only used a single die to answer simple questions.  Then answer was either:
+
+* a modifier, (family/history, friend, lovers, enemy/danger)
+* a yes/no answer (no, probably no, probably yes, yes) or
+* a range of two values. ("is it A or B?": A, partly A, partly B, B)
+
+### Adventure #1
+
+* Adventure is caused by [1] a friend.
+* What is the issue? [3] a danger.
+* What kind of danger [1] involving a friend.
+* Is the second friend trying to attack the first friend? [1] no, but they're not getting along.
+* So that tells me there's a danger my friends need to work together to defeat, but since they're not getting along, they can't defeat it.
+* What kind of danger are they trying to work together to defeat? [0] Family. (see alternate branch below)
+* I'd say the second friend's family is causing a danger, but they're unwilling to recognize it.
+* The first friend and I need to go to the second friend and convince them of the danger.
+* I suspect the family will have spies that will tell the family of our plans and they will try to stop us.
+
+### Adventure #1, alternate branch
+
+* ...
+* What kind of danger are they trying to work together to defeat? [0] Something in their shared past.
+* Did it involve all three of us? [2] partly, yes.
+* A curse? [0] no
+* An item? [0] no (I'm going to ignore this later because of the next answer)
+* Treasure? [1] not exactly
+* So an item we got that didn't appear valuable at the time, but isn't cursed.
+* This item involves my two friends more than me. I'll say someone is looking for that item, but doesn't know I was involved in finding it. That makes me uniquely qualified to fix the problem. My friends are in danger and can't get directly involved.
+* Do I have the item? [0] No.
+* Does a friend have the item? [3] Yes, in their possession.
+* It must be the friend talking to me.  (A [2] would be the other friend who we'd have to find.)
+* Is the person looking for the item, evil? [1] Not obviously so, but may turn out evil later.
+* I have my friend go into hiding and talk to the person looking for the item.  They tell me the item is dangerous and needs to be destroyed. They'll stop at nothing to get the item. I offer to destroy it myself and they respond with [0] absolutely not.  Only they can destroy the item. (If the answer was "yes", the person would have sent me on a journey to destroy it) I return to my friend but he's missing.  Now I need to find him to retrieve the item so it can be destroyed. I recruit the help of the second friend. After I get the item, I return it to the person who wants to destroy it.  Does he reveal himself as being evil? [3] Yes! Boss battle. (A [1] could have meant he tries to use the item for good but it backfires. A [2] could mean he got corrupted by the item.)
+
+### Adventure #2
+
+* Adventure is caused by [0] family.
+* What is the issue? [0] family.
+* Is it a different family? [3] yes, completely unrelated to my family.
+* What is the cause of the conflict? [2] lovers.
+* An unwanted arranged marriage? [0] no
+* An arranged marriage gone wrong? [2] yes.
+* So the other family had someone that was going to get married, but the person they were going to marry left that person for someone in my family.
+* Did they elope? [3] Oh yeah. And it was in secret.
+* How does this affect me? [1] friend.
+* Is the person who was going to get married my friend? [3] yes.
+* There's a feud between my friend's family and mine because the person my friend was going to marry eloped with someone from my family and my friend came to me to help prevent the conflict from getting out of hand.
+
+### Adventure #3
+
+* Adventure is cause by [3] danger.
+* What kind of danger? [0] family.
+* Is the danger from my family, or to my family? [3] to my family.
+* Is it to my family in general, or my immediate family? [2] immediate family, a sibling. (a [3] would be a parent)
+* Brother or sister? [0] brother.
+* Is he asking for my help? [0] Not at all. So maybe he's missing.
+* How did I find out? [1] a friend told me.
+* So my brother is missing. His friend came to me to help find him.
+* Was he on an adventure at the time? [3] Yes, definitely.
+* He told the friend where he was going and never came back.
+* Was he looking for treasure? [3] Yes, purely a treasure hunt.
+* My brother's friend came to me worried because my brother had gone on a treasure hunt, but hasn't come back yet after several days. The friend wants me to go rescue my brother from whatever dangers he got himself into.
+
+### Adventure #4
+
+* My character is an orphan with no friends
+* Adventure is caused by [0] something in my past
+* What is the issue? [0] my past again. Since I was an orphan, I'll say it has something to do with how I had to survive on the streets.
+* What in my past? [3] an old danger.
+* An old rival? [0] definitely not. Someone or something that didn't know me.
+* A danger to other orphans today? [3] Yes, very much.
+* So this is a danger I'm familiar with because I was an orphan and it's a danger right now to the current day orphans.
+* Is it an ongoing issue? [0] So something that rarely happens.
+* What is the danger to the orphans? [1] friend.
+* Someone pretending to be a friend? [1] not really. Someone acting friendly though.
+* Does this involve slavery? [3] Yes!
+* So a slave trader is convincing orphans to follow them to a better life. My old contacts let me know what they suspect is happening, since this is something that also happened in my childhood. Perhaps I escaped them before? I need to find the slavers and rescue the orphans.
+
+### Adventure #5
+
+* Adventure is caused by [3] a danger
+* What kind of danger? [3] the dangerous kind.
+* Is the danger to me specifically? [3] Yes.
+* An attempt on my life? [0] No.
+* A danger to my livelihood? [0] No.
+* How does it affect me? [1] Friend.
+* Is a fiend of mine also involved? [2] partly, yes.
+* Did my friend bring this danger to me? [0] No.
+* Did I bring the danger to my friend? [1] Not really, but they were involved.
+* I'll assume my friend and I did something which got us both involved in the danger.
+* Was it a previous adventure? [1] Not directly.
+* Did we take something that someone else wanted? [2] yes, sort of.
+* Does the danger come from an adventurer, or a villain? [2] a minor villain.
+* Bending the answers a little, I'm going to say the story goes like this: My friend and I found a golden item, but we didn't know what it was, so we sold it. My friend recently found out that a minor villain is looking for the item to make themselves more powerful. They tracked it to me and my friend. We need to find where the item is now, before the villain, while also fending off attacks from the villain's followers. If we fail to find it first, the villain will become more powerful and a large battle will ensue.
 
 ### Example Battles:
 

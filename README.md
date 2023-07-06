@@ -22,7 +22,7 @@ For ranged values, roll two dice to get a value from 0 (very bad) to 6 (very goo
 
 **Elf:** Nature / spiritual magic, healing others, golems, sentient weapons.
 
-**Beast-kin:** Self transformation / boosting magic. Can change into an animal with +1/2 point per level, rounded up, to traits based on animal type. Can change into a human with +1/2 point per level, rounded up, to INT. Animal form cannot use weapons or armor. Can only use magic in their natural form. Transformation always succeeds, takes one full turn, and costs two manna.
+**Beast-kin:** Self transformation / boosting magic. When changing into an animal, manna tokens are redistributed to traits based on animal type. When changing into full human, manna tokens are added to INT for charisma checks. Animal form cannot use weapons or armor. Beast-kin can only use magic in their natural form. Transformation always succeeds and takes one full turn.
 
 Any race can learn the magic of another race through practice. Since this is not natural for the race, no more than 3 spells from other races can be learned.
 
@@ -34,7 +34,7 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Charisma:** Charisma uses INT. Roll INT for both characters. Must beat the target's score to win. Modifiers can be used based on the circumstances.
 
-**Magic:** You have one manna (magic) token per level of INT. Any time you use manna, choose how many levels to use, then temporarily drop your manna by that many tokens. You regain one lost manna per turn.
+**Magic:** You have one manna (magic) token per level of INT. When you use manna, choose how many levels to use, then temporarily drop your manna by that many tokens. You regain one lost manna token per turn up to INT tokens.
 
 ### Fighting
 
@@ -42,13 +42,13 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Challenge Difficulties:** Trivial(4), Easy(6), Medium(8), Hard(10), and Heroic(12). Roll to match or better. Rolling 0 (6.25%) always fails.
 
-**Fray die:** Before hero attacks an enemy, roll one die. If it's a 3, do 1 damage to the opponent before attacking. These are attacks "in the fray" such as dagger swipes, critical hits, etc.
+**Fray die:** Before a hero attacks an enemy, roll one die. If it's a 3, do 1 damage to the opponent before attacking. These are attacks "in the fray" such as dagger swipes, critical hits, etc.
 
 **Speed (DEX) based attacks:** Attacker rolls on DEX. Defender rolls on either DEX (dodge) or STR (block). If the attacker rolls higher than the defender, the difference is the damage done.
 
 **Strength (STR) based attacks:** Roll on DEX for both attacker and defender. If the defender rolls higher, this is the amount of damage dodged. Then the attacker and defender roll on STR. If the attacker rolls higher, this is the damage done, minus the damage dodged.
 
-**Magic attacks:** Because of the different ways magic can be used, there are no set rules for magic. Depending on the spell, magic may be used in place of DEX or STR using the same rules as above. These rules may be modified for the spell used, such as AoE spells.
+**Magic attacks:** Because of the different ways magic can be used, there are no set rules or spells. Depending on the spell, magic may be used in place of DEX or STR using the same rules as above. Many magic spells will only require a difficulty check for success.
 
 **Damage overflow:** If you do more damage than a single enemy can take, you can spend the overflow damage on an enemy, of equal or less level, adjacent to the first. This can be repeated for as many enemies are there are, as long as they are adjacent to each other. Any one of the remaining enemies can return an attack before you attack again.
 
@@ -60,14 +60,14 @@ Any race can learn the magic of another race through practice. Since this is not
 
 **Traps:** Traps have a LVL which must be beat with INT to disarm. LVL acts like DEX if triggered. A failed roll to disarm will trigger the trap. When creating a trap, roll on INT to find the trap's LVL.
 
-**Constructs and Golems:** Roll on manna for the level. Use the rules for monsters to determine how many trait points to distribute.
+**Constructs and Golems:** Roll on manna for the level. The pet gets 2x the rolled value of trait points. Manna used to create a pet does not regenerate until the pet dies or is dismissed. Manna boosts from meditation may be used.
 
-**Meditation:** When not in battle, you can choose to meditate. For each turn you meditate, you temporarily increase your manna pool by one token. There is also a 50% chance to be attacked by a low-level monster each turn.  If your meditation is interrupted, you loose the manna bonus and the monster attacks first. You keep this manna boost until it is spent.
+**Meditation:** You can choose to meditate once after each battle. To meditate, roll one die. If it's 0 or 1, a monster will find you and have first attack. If it's 2 or 3, your meditation is successful and you get a temporary 1 point manna boost. You keep this manna boost until it is used. The manna boosts stack if not spent.
 
-**Leveling:** At the end of a single adventure, (or whenever you feel is right) each hero gets one XP and all spent lucky shots are restored. You need the number of the next level more XP to advance to that level. (level 4 is 4 XP higher than level 3) Each time you level up, you get 2 points you can choose to spend on any traits or lucky shot tokens.
+**Leveling:** At the end of a single encounter, each hero gets one XP and one spent lucky shot is restored. You need the number of the next level more XP to advance to that level. (level 4 is 4 XP higher than level 3) Each time you level up, you get 2 points you can choose to spend on any traits or lucky shot tokens.
 
-**Healing:** Each ally can heal 1 HP between battles. Elves may attempt to perform a full heal at a medium(8) difficulty, or raise the dead at a hard(10) difficulty. Beast-kin may attempt a full heal on themselves.
+**Healing:** Each ally can heal 1 HP between battles. Elves and Beast-kin may attempt to perform a full heal at a trivial(4) + target level difficulty. Elves may attempt to raise the dead at an easy(6) + target level difficulty.
 
-**Monsters:** A level 1 monster has 4 total trait points. (Often one point to each trait) Monsters level the same way as Heroes, so a level 5 monster will have 8 additional trait points, or 12 total, the same as a level 1 hero.
+**Monsters:** Monsters and pets get LEVEL x 2 total trait points. A level 6 monster will have 12 total trait points, the same as a level 1 hero.
 
 **Creating a Map:** Roll multiple dice, or a single dice multiple times to find what exits the current room has. Zero is the way you entered the room, 1 is to the left, 2 is straight ahead, 3 is to the right. Ignore duplicate values. Ask the oracle about any room features.

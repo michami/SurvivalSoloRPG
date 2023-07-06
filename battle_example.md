@@ -9,7 +9,7 @@ Here is an example of a simple battle using rope and tokens (White "peeples" and
 * HP: 4
 * STR: 2
 * DEX: 4
-* INT: 1
+* INT: 1 (There could be 1 manna token, but there's no need when there's only one)
 * Lucky Shots: 1 (3 lucky shots)
 
 The smaller rope on top is used to count the number of XP since my last level up. (1) I tie a simple overhand knot for each xp.
@@ -28,5 +28,3 @@ I'm attacking 3 level 2 monsters:
 Each row of two HP represents a single monster.  If all the monsters had 1 HP, I would group them together and just remove them one at a time as I killed them.
 
 The tokens on the far left are just extras. If I was using a weapon with bonuses, I would add tokens above my rope to represent a positive stat, and below the rope to represent a negative stat. If your weapon only has positive stats, you could tie the stats on rope, like the character stats. If you have a negative stat, you could tie an extra overhand knot against the knot for the stat showing it's negative.  Or just carve the stat into a stick to make it easy to read.
-
-There's not enough room on my desk, but you would also want to make some kind of battleground showing placement of characters, terrain, etc. One benefit of doing this outside would be the chance to use items in nature to create interesting battles.
