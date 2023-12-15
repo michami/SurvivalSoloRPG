@@ -1,0 +1,27 @@
+DC:
+	If monster stat is lower, DC is 2 (81%)
+	If monster stat is equal, DC is 3 (63%)
+	If monster stat is higher, DC is 4 (38%)
+
+	Roll 2d and match or better to succeed
+
+When attacking, compare hero STR to monster DEX
+When avoiding an attack, compare hero DEX to monster STR
+Hero can spend 1+ energy (or HP) to shift a roll up or down by 1+ point
+
+On level up, add 1 point to any trait, including HP
+
+A normal human is a level 10, with 5 HP and 1, 2, 2 or 1, 1, 3 points into traits
+Create a normal human based on your character's past
+	Then add 2 more levels by adding 2 points to any traits
+
+When attacking a group:
+	Make a single attack, if it kills, roll again for the next creature
+	When defending, add together all creature's STR and roll on that
+		May roll at disadvantage even if creatures have 0 STR
+
+Can use 2d6 with a 7 being the average DC:
+	If monster stat is lower, DC is 6 (72%)
+	If monster stat is equal, DC is 7 (58%)
+	If monster stat is higher, DC is 8 (42%)
+
