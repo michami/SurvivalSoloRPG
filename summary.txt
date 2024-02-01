@@ -1,0 +1,29 @@
+Rules Summary:
+
+Use 3 D4 dice carved from sticks, and marked from 0 to 3. Each character has 4 traits, HP, STR, DEX, and INT.
+For each trait, you make a pile of tokens (pebbles, etc.), one token for each point in the trait.
+When making an attack or performing a challenge, roll at or above a calculated DC, with a DC 5 being 50% likely.
+The DC is calculated by comparing the number of tokens in your trait to the LVL of the enemy.
+You can spend tokens to shift the dice up or down, but doing so may change the DC of the next roll.
+If your final score is 3+ over the DC, you do an extra point of damage.
+
+It uses a soft magic system. Spend INT tokens and adding that to a roll.
+A score of 5 is required to perform any damaging magic, 10 for major damage, and 15 for large scale magic.
+
+All tokens, except HP and tokens spend on long running spells, are restored at the end of each encounter.
+You can also restore one token of your choice by skipping your turn.
+
+The dice are also used as an oracle to help with story progress:
+
+0: HP, Earth, Dwarf, Manly Male, Family, Past, Solemn, "No"
+1: STR, Water, Human, Male, Friend, Relaxed, Social, "Unlikely"
+2: DEX, Air, Elf, Female, Lovers, Excited, Active, "Probably"
+3: INT, Fire, Beast-kin, Girly Female, Danger, Enemy, Scared, Protective, "Yes"
+
+For example:
+Q: What gender and race is that person at the tavern?
+A: 2, 0: A Female Dwarf
+
+Q: What is her attitude twards me?
+A: 3: Standoffish, or maybe she hates humans, so she's glaring at me
+
